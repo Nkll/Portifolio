@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f5f5f5;
+}
+
+h1{
+    font-family: Franklin Gothic;
+    text-align: center;
+}
+
+.Skills {
+    font-size: 33px;
+}
+
+.fotoAtual{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
