@@ -1,19 +1,39 @@
-body{
+body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #f5f5f5;
 }
 
-h1{
+h1 {
     font-family: Franklin Gothic;
     text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: darkred;
+    padding: 20px;
+}
+
+h3 {
+    border: 5px;
+    border-style: solid;
+    border-color: darkred;
+    padding: 20px;
 }
 
 .Skills {
     font-size: 33px;
 }
 
-.fotoAtual{
+.fotoAtual {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
+    background-color: aqua;
+    border: 5px;
+    border-style: solid;
+    border-color: darkred;
+}
+
+h4 > ul > ul:nth-of-type(odd) {
+    font-style: italic;
 }
